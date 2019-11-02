@@ -11,11 +11,16 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  height: auto !important;
+  background: none !important;
+  border: none !important;
 }
 
 li {
   font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
   border-bottom: 1px solid #ccc;
+  width: auto !important;
+  float: none !important;
 }
 
 li:last-child {
@@ -31,8 +36,11 @@ li a {
   -o-transition: font-size 0.3s ease, background-color 0.3s ease;
   -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
   transition: font-size 0.3s ease, background-color 0.3s ease;
-  display: block;
+  display: block !important;
   width: 200px;
+  font-size: 16px !important;
+  line-height: normal !important;
+  text-align: left !important;
 }
 
 li a:hover {
