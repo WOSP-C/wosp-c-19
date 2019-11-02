@@ -4,8 +4,8 @@ title:  "Call for contributions"
 ---
 <h2>Call for Contributions</h2>
 <h3>WOSP-C 2020: Workshop on Challenges and Opportunities in Large Scale Performance</h3>
-<p>Topic: Performance and System Measurement and Analytics</br>
-April 20th or 21st, 2020</br>
+<p>Topic: Performance and System Measurement and Analytics
+April 20th or 21st, 2020
 Co-located with ICPE2020 in Edmonton, Alberta, Canada</p>
 <h3>General</h3>
 <p>The WOSP-C series of workshops on challenges in software performance has taken place at every ICPE except ICPE 2019 since ICPE 2015. It provides a forum for the discussion of emerging or unaddressed challenges in software and performance, including challenges in developing software to be performant, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. Some of the topics have later become the subject of workshops and conference papers in their own right.</p>
@@ -15,28 +15,36 @@ Co-located with ICPE2020 in Edmonton, Alberta, Canada</p>
 <h3>Objective and Proposed Topics</h3>
 <p>The objective of this workshop is to bring together tool builders, practitioners and researchers who address the problems described above. Among the questions we hope to address in the workshop are:</p>
 <p>
-•	What are the principles underlying the analysis of large numbers of performance measures collected from disparate parts of the system?</br>
-•	How does one link these performance measures to the architectures of large-scale systems?</br>
-•	How does one reconcile performance measures obtained from a system in one virtual environment with competition from another environment in the cloud?</br>
+<ul>
+<li>
+•	What are the principles underlying the analysis of large numbers of performance measures collected from disparate parts of the system?</li>
+<li>
+•	How does one link these performance measures to the architectures of large-scale systems?
+</li>
+<li>
+•	How does one reconcile performance measures obtained from a system in one virtual environment with competition from another environment in the cloud?
+</li>
+<li>
 •	Can the baselining of measurements provide a foundation for intrusion detection?
+</li>
 </p>
 
 <h3>Contributions are welcomed in any of the following areas, as well as on related topics:</h3>
 <p>
-•	Non-intrusive measurement of resource usage and performance on a large scale</br>
-•	Building workload models from analytics</br>
-•	Workload measurement for load generation</br>
-•	Performance-oriented diagnosis of concurrent programming, scheduling, and functional problems</br>
-•	Modeling the performance of systems and components under development</br>
-•	Automated generation of performance requirements and modeling parameters</br>
-•	Inference about performance and concurrency in cloud-based, physically based, and distributed systems</br>
+•	Non-intrusive measurement of resource usage and performance on a large scale
+•	Building workload models from analytics
+•	Workload measurement for load generation
+•	Performance-oriented diagnosis of concurrent programming, scheduling, and functional problems
+•	Modeling the performance of systems and components under development
+•	Automated generation of performance requirements and modeling parameters
+•	Inference about performance and concurrency in cloud-based, physically based, and distributed systems
 •	Performance analytics and intrusion detection
 </p>
 <h3>Invited Speakers</h3>
-<p>The workshop will feature the following invited speakers:</br>
-•	Dr. Tomer Morad, Concertio, New York, USA</br>
-•	Dr. Igor Trubin, Capital One Bank, Virginia, USA</br>
-•	Dr. Boris Zibitsker, BEZNext, Illinois, USA</br>
+<p>The workshop will feature the following invited speakers:
+•	Dr. Tomer Morad, Concertio, New York, USA
+•	Dr. Igor Trubin, Capital One Bank, Virginia, USA
+•	Dr. Boris Zibitsker, BEZNext, Illinois, USA
 
 Invitations will be sent pending approval of the proposal.</p>
 
@@ -47,20 +55,20 @@ Invitations will be sent pending approval of the proposal.</p>
 <p>Submissions may take the form of two-page extended abstracts or six-page papers. All submissions will be reviewed by at least two members of the program committee.</p>
 
 <h3>Technical Program Committee</h3>
-<p>Chair: André B. Bondi – Software Performance and Scalability Consulting LLC and Stevens Institute of Technology, New Jersey, USA</br>
-Davide Arcelli, DISIM - Universitá dell’Aquila, Italy</br>
-Alberto Avritzer – eSulabSolutions, New Jersey, USA</br>
-Steffen Becker, University of Stuttgart, Germany</br>
-Tony Field- Imperial College, UK</br>
-Cati Llado, University of the Balearic Islands, Spain</br>
-C. Murray Woodside, Carleton University, Ottawa, Canada</br>
-Boris Zibitsker, BEZNext, Chicago, USA.</br></p>
+<p>Chair: André B. Bondi – Software Performance and Scalability Consulting LLC and Stevens Institute of Technology, New Jersey, USA
+Davide Arcelli, DISIM - Universitá dell’Aquila, Italy
+Alberto Avritzer – eSulabSolutions, New Jersey, USA
+Steffen Becker, University of Stuttgart, Germany
+Tony Field- Imperial College, UK
+Cati Llado, University of the Balearic Islands, Spain
+C. Murray Woodside, Carleton University, Ottawa, Canada
+Boris Zibitsker, BEZNext, Chicago, USA.</p>
 
 <h3>Submissions and Dates</h3>
 <p>Authors are invited to submit original, unpublished papers that are not being considered in another forum. Papers should be in ACM format. They should describe research results, experience, visions or new initiatives, and not exceed 6 pages in length. They should be submitted via Easychair at https://easychair.org/conferences/?conf=wospc2020.  ACM templates may be found here. Presented papers will be published in the ICPE 2020 conference proceedings that will be published by ACM and included in the ACM Digital Library. Authors are required to adhere to the ACM Policy and Procedures on Plagiarism  as well as to the ACM Policy on Prior Publication and Simultaneous Submissions. Concurrent submission of the same work to ICPE2020 and to WOSP-C or any other ICPE2020 workshop is not permitted.</p>
 
-<p>Important Dates</br>
-•	Submission deadline: January 12, 2020</br>
-•	Notifications to authors: February 2nd, 2020</br>
+<p>Important Dates
+•	Submission deadline: January 12, 2020
+•	Notifications to authors: February 2nd, 2020
 •	Camera-ready copy (hard deadline): February 24th, 2020
 </p>
