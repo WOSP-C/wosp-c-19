@@ -1,5 +1,5 @@
 ---
-title:  "Index"
+layout: default
 ---
 <h2>Call for Contributions</h2>
 <h3>WOSP-C 2020: Workshop on Challenges and Opportunities in Large Scale Performance</h3>
