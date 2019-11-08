@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for contributions"
+title:  "Call for Contributions"
 author: admin
 date: 8.11.2019
 ---
