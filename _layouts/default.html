@@ -77,19 +77,8 @@ ul.menu li a:hover {
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <ul class="menu">
-            {% for page in site.pages %}
-              {% if page.name != 'assets/css/style.css' && page.title != 'index' %}
-              <li>
-                <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
-              </li>
-              {% endif %}
-            {% endfor %}
+			{% include sidebar.html %}
 
-            <li><a href="http://wosp-c.uib.es/">WOSP-C 2018</a></li>
-            <li><a href="http://wosp-c.ipd.kit.edu/">WOSP-C 2016</a></li>
-            <li><a href="http://wosp-c.ipd.kit.edu/wosp_c15/home/index.html">WOSP-C 2015</a></li>
-        </ul>
           
         
         {% if site.github.is_user_page %}
