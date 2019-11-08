@@ -79,9 +79,11 @@ ul.menu li a:hover {
         
         <ul class="menu">
             {% for page in site.pages %}
+              {% if page.name != 'assets/css/style.css' && page.title != 'index' %}
               <li>
                 <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
               </li>
+              {% endif %}
             {% endfor %}
 
             <li><a href="http://wosp-c.uib.es/">WOSP-C 2018</a></li>
