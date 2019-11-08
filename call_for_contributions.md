@@ -27,6 +27,7 @@ How does one reconcile performance measures obtained from a system in one virtua
 <li>
 Can the baselining of measurements provide a foundation for intrusion detection?
 </li>
+</ul>
 </p>
 
 <h3>Contributions are welcomed in any of the following areas, as well as on related topics:</h3>
