@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Invited Speakers"
 author: admin
 date: 8.11.2019
