@@ -46,8 +46,11 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 <p>The workshop will feature the following invited speakers:
 <ul class="text">
 <li>Dr. Tomer Morad, Concertio, New York, USA</li>
+<li>Topic: Leveraging Machine Learning to Automate Performance Tuning</li>
 <li>Dr. Igor Trubin, Capital One Bank, Virginia, USA</li>
+<li>Topic: Performance Anomaly and Change Point Detection for Large-Scale System Management</li>
 <li>Dr. Boris Zibitsker, BEZNext, Illinois, USA</li>
+<li>Topic: </li>
 </ul>
 Invitations will be sent pending approval of the proposal.</p>
 
@@ -71,7 +74,9 @@ Invitations will be sent pending approval of the proposal.</p>
 </ul>
 </p>
 <h3>Submissions and Dates</h3>
-<p>Authors are invited to submit original, unpublished papers that are not being considered in another forum. Papers should be in ACM format. They should describe research results, experience, visions or new initiatives, and not exceed 6 pages in length. They should be submitted via Easychair at <a href="https://easychair.org/conferences/?conf=wospc2020">EasyChair WOSPC2020</a>.  ACM templates may be found here. Presented papers will be published in the ICPE 2020 conference proceedings that will be published by ACM and included in the ACM Digital Library. Authors are required to adhere to the ACM Policy and Procedures on Plagiarism  as well as to the ACM Policy on Prior Publication and Simultaneous Submissions. Concurrent submission of the same work to ICPE2020 and to WOSP-C or any other ICPE2020 workshop is not permitted.</p>
+<p>Authors are invited to submit original, unpublished papers that are not being considered in another forum. Papers should be in ACM format. They should describe research results, experience, visions or new initiatives, and not exceed 6 pages in length. They should be submitted via Easychair at </p>
+<p><a href="https://easychair.org/conferences/?conf=wospc2020">EasyChair WOSPC2020</a></p> 
+<p>ACM templates may be found here. Presented papers will be published in the ICPE 2020 conference proceedings that will be published by ACM and included in the ACM Digital Library. Authors are required to adhere to the ACM Policy and Procedures on Plagiarism  as well as to the ACM Policy on Prior Publication and Simultaneous Submissions. Concurrent submission of the same work to ICPE2020 and to WOSP-C or any other ICPE2020 workshop is not permitted.</p>
 
 <p>Important Dates
 <ul class="text">
