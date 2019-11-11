@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2>Call for Contributions</h2>
+<h2 id="call">Call for Contributions</h2>
 <h3>WOSP-C 2020: Workshop on Challenges and Opportunities in Large Scale Performance</h3>
 <p>Topic: Performance and System Measurement and Analytics
 April 20th or 21st, 2020
@@ -51,10 +51,10 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 </ul>
 Invitations will be sent pending approval of the proposal.</p>
 
-<h3>Agenda</h3>
+<h3 id="agemda">Agenda</h3>
 <p>This workshop will include invited talks to stimulate ideas, contributed papers, and a discussion session on topics that would benefit from in-depth consideration.  Parallel discussion sessions may be organized towards the end of the day depending on interests.</p>
 
-<h3>Submissions</h3>
+<h3 id="submissions">Submissions</h3>
 <p>Submissions may take the form of two-page extended abstracts or six-page papers. All submissions will be reviewed by at least two members of the program committee.</p>
 
 <h3 id="pc">Technical Program Committee</h3>
