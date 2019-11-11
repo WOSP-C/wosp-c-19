@@ -73,7 +73,7 @@ Invitations will be sent pending approval of the proposal.</p>
 <p>Cati Llado, University of the Balearic Islands, Spain</p>
 <p>C. Murray Woodside, Carleton University, Ottawa, Canada</p>
 <p>Boris Zibitsker, BEZNext, Chicago, USA.</p>
-</p>
+
 <h3>Submissions and Dates</h3>
 <p>Authors are invited to submit original, unpublished papers that are not being considered in another forum. Papers should be in ACM format. They should describe research results, experience, visions or new initiatives, and not exceed 6 pages in length. They should be submitted via Easychair at </p>
 <p><a href="https://easychair.org/conferences/?conf=wospc2020">EasyChair WOSPC2020</a></p> 
