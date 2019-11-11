@@ -42,7 +42,7 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 <li>Performance analytics and intrusion detection</li>
 </ul>
 </p>
-<h3>Invited Speakers</h3>
+<h3 id="invited">Invited Speakers</h3>
 <p>The workshop will feature the following invited speakers:
 <ul class="text">
 <li>Dr. Tomer Morad, Concertio, New York, USA</li>
@@ -57,7 +57,7 @@ Invitations will be sent pending approval of the proposal.</p>
 <h3>Submissions</h3>
 <p>Submissions may take the form of two-page extended abstracts or six-page papers. All submissions will be reviewed by at least two members of the program committee.</p>
 
-<h3>Technical Program Committee</h3>
+<h3 id="pc">Technical Program Committee</h3>
 <p>
 <ul class="text">
 <li>Chair: André B. Bondi – Software Performance and Scalability Consulting LLC and Stevens Institute of Technology, New Jersey, USA</li>
