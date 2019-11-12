@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
 <style>
+.myheader {
+  position: relative !important;
+}
+.myfooter {
+  position: relative !important;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -69,7 +75,7 @@ ul.menu li a:hover {
   </head>
   <body>
     <div class="wrapper">
-      <header>
+      <header class="myheader">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -99,7 +105,7 @@ ul.menu li a:hover {
       {{ content }}
 
       </section>
-      <footer>
+      <footer class="myfooter">
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
