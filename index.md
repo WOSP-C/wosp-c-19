@@ -60,7 +60,7 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 <li>Dr. Boris Zibitsker, BEZNext, Illinois, USA</li>
 <li>Topic: </li>
 </ul>
-Invitations will be sent pending approval of the proposal.</p>
+</p>
 
 <h3 id="agemda">Agenda</h3>
 <p>This workshop will include invited talks to stimulate ideas, contributed papers, and a discussion session on topics that would benefit from in-depth consideration.  Parallel discussion sessions may be organized towards the end of the day depending on interests.</p>
