@@ -58,7 +58,7 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 </ul></p>
 <p><ul class="text">
 <li>Dr. Boris Zibitsker, BEZNext, Illinois, USA</li>
-<li>Topic: </li>
+<li>Topic: TBA</li>
 </ul>
 </p>
 
