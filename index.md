@@ -70,7 +70,8 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 
 <h3 id="pc">Technical Program Committee</h3>
 <p>
-<li>Chair: André B. Bondi – Software Performance and Scalability Consulting LLC and Stevens Institute of Technology, New Jersey, USA</p>
+<ul class="text">
+<li>Chair: André B. Bondi – Software Performance and Scalability Consulting LLC and Stevens Institute of Technology, New Jersey, USA</li>
 <li>Davide Arcelli, DISIM - Universitá dell’Aquila, Italy</li>
 <li>Alberto Avritzer – eSulabSolutions, New Jersey, USA</li>
 <li>Steffen Becker, University of Stuttgart, Germany</li>
@@ -78,6 +79,7 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 <li>Cati Llado, University of the Balearic Islands, Spain</li>
 <li>C. Murray Woodside, Carleton University, Ottawa, Canada</li>
 <li>Boris Zibitsker, BEZNext, Chicago, USA.</li>
+</ul>
 </p>
 
 <h3>Submissions and Dates</h3>
