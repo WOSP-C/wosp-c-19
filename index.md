@@ -69,14 +69,16 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 <p>Submissions may take the form of two-page extended abstracts or six-page papers. All submissions will be reviewed by at least two members of the program committee.</p>
 
 <h3 id="pc">Technical Program Committee</h3>
-<p>Chair: André B. Bondi – Software Performance and Scalability Consulting LLC and Stevens Institute of Technology, New Jersey, USA</p>
-<p>Davide Arcelli, DISIM - Universitá dell’Aquila, Italy</p>
-<p>Alberto Avritzer – eSulabSolutions, New Jersey, USA</p>
-<p>Steffen Becker, University of Stuttgart, Germany</p>
-<p>Tony Field- Imperial College, UK</p>
-<p>Cati Llado, University of the Balearic Islands, Spain</p>
-<p>C. Murray Woodside, Carleton University, Ottawa, Canada</p>
-<p>Boris Zibitsker, BEZNext, Chicago, USA.</p>
+<p>
+<li>Chair: André B. Bondi – Software Performance and Scalability Consulting LLC and Stevens Institute of Technology, New Jersey, USA</p>
+<li>Davide Arcelli, DISIM - Universitá dell’Aquila, Italy</li>
+<li>Alberto Avritzer – eSulabSolutions, New Jersey, USA</li>
+<li>Steffen Becker, University of Stuttgart, Germany</li>
+<li>Tony Field- Imperial College, UK</li>
+<li>Cati Llado, University of the Balearic Islands, Spain</li>
+<li>C. Murray Woodside, Carleton University, Ottawa, Canada</li>
+<li>Boris Zibitsker, BEZNext, Chicago, USA.</li>
+</p>
 
 <h3>Submissions and Dates</h3>
 <p>Authors are invited to submit original, unpublished papers that are not being considered in another forum. Papers should be in ACM format. They should describe research results, experience, visions or new initiatives, and not exceed 6 pages in length. They should be submitted via Easychair at </p>
