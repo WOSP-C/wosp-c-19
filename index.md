@@ -45,6 +45,10 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 <h3 id="invited">Invited Speakers</h3>
 <p>The workshop will feature the following invited speakers:</p>
 <p><ul class="text">
+<li>Dr. Alberto Avritzer, esuLabs Solutions</li>
+<li>Topic: Automated Scalability Assessment in DevOps Environments	Invited</li>
+</ul></p>
+<p><ul class="text">
 <li>Dr. Tomer Morad, Concertio, New York, USA</li>
 <li>Topic: Leveraging Machine Learning to Automate Performance Tuning</li>
 </ul></p>
