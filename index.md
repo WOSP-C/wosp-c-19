@@ -3,18 +3,23 @@ layout: default
 ---
 <h2 id="program">Technical Program</h2>
 
-<ul>
+<ul style="list-style-type: none;">
   <li>8:50 - Welcoming Remarks - <i>André B. Bondi (Software Performance and Scalability Consulting LLC and Stevens Institute of Technology)</i></li>
   <li>9:00 - Leveraging Machine Learning to Automate Performance Tuning (invited presentation) - <i>Tomer Morad (Concertio)</i></li>
   <li>9:30 - Automated Scalability Assessment in DevOps Environments (invited presentation) - <i>Alberto Avritzer (eSulab Solutions)</i></li>
   <li>10:00 - How to Apply Modeling to Compare Options and Select the Appropriate Cloud Platform (invited presentation) - <i>Boris Zibitsker (BEZNext); Alex Lupersolsky (BEZNext)</i></li>
+  <li><hr></li>
   <li>10:30 - <strong>Break</strong></li>
+    <li><hr></li>
    <li>11:00 - Performance Analysis and Prediction of Model Transformation - <i>Vijayshree Vijayshree (Universität Stuttgart); Markus Frank (Universität Stuttgart); Steffen Becker (Universität Stuttgart)</i></li>
   <li>11:30 - Issues Arising in Using Kernel Traces to Make a Performance Model - <i>Murray Woodside (Carleton University); Shieryn Tjandra (Carleton University); Gabriel Seyoum (Carleton University)</i></li>
   <li>12:00 - Performance Anomaly and Change Point Detection for Large-Scale System Management (invited presentation) - <i>Igor Trubin (CapitalOne)</i></li>
+    <li><hr></li>
   <li>12:30 - <strong>Lunch</strong></li>
+    <li><hr></li>
   <li>A joint panel discussion with the HotCloudPerf workshop is planned for the afternoon at a time to be determined. Please visit the two workshop websites, https://wosp-c.github.io/wosp-c-20/ and https://hotcloudperf.spec.org/, for updates.
 </li>
+    <li><hr></li>
 </ul>
 
 
