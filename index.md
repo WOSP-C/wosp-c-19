@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-<h2 id="program">Technical Program</h2>
+<h3>WOSP-C 2020: Workshop on Challenges and Opportunities in Large Scale Performance</h3>
+<p>Topic: Performance and System Measurement and Analytics</p>
+<p>April 21st, 2020</p>
+<p>Co-located with ICPE2020 in Edmonton, Alberta, Canada</p>
 
+<h3 id="program">Technical Program</h2>
 <ul style="list-style-type: none;">
   <li>8:50 - Welcoming Remarks - <i>André B. Bondi (Software Performance and Scalability Consulting LLC and Stevens Institute of Technology)</i></li>
   <li>9:00 - Leveraging Machine Learning to Automate Performance Tuning (invited presentation) - <i>Tomer Morad (Concertio)</i></li>
@@ -22,16 +26,12 @@ layout: default
     <li><hr></li>
 </ul>
 
-
-<h2 id="call">Call for Contributions</h2>
-<h3>WOSP-C 2020: Workshop on Challenges and Opportunities in Large Scale Performance</h3>
-<p>Topic: Performance and System Measurement and Analytics</p>
-<p>April 21st, 2020</p>
-<p>Co-located with ICPE2020 in Edmonton, Alberta, Canada</p>
 <h3>General</h3>
 <p>The WOSP-C series of workshops on challenges in software performance has taken place at every ICPE except ICPE 2019 since ICPE 2015. It provides a forum for the discussion of emerging or unaddressed challenges in software and performance, including challenges in developing software to be performant, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. Some of the topics have later become the subject of workshops and conference papers in their own right.</p>
 <h3>Overview</h3>
 <p>In recent years, tools have proliferated to measure and analyze the resource usage and application activity of large-scale systems hosted on vast numbers of physical or virtual machines. Drawing inferences about performance, identifying performance bottlenecks, reducing performance test data, generating performance requirements, and computing the parameters of performance models all require the assistance of analytics tools to make dealing with large numbers of data sources tractable. The goal of this workshop is to explore performance challenges and their relationship to software engineering in these emerging areas.</p>
+
+
 
 <h3>Objective and Proposed Topics</h3>
 <p>The objective of this workshop is to bring together tool builders, practitioners and researchers who address the problems described above. Among the questions we hope to address in the workshop are:</p>
