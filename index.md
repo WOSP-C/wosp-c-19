@@ -6,7 +6,7 @@ layout: default
 <p>April 21st, 2020</p>
 <p>Co-located with ICPE2020 in Edmonton, Alberta, Canada</p>
 
-<h3 id="program">Technical Program</h2>
+<h3 id="program">Technical Program</h3>
 <ul style="list-style-type: none;">
   <li>8:50 - Welcoming Remarks - <i>André B. Bondi (Software Performance and Scalability Consulting LLC and Stevens Institute of Technology)</i></li>
   <li>9:00 - Leveraging Machine Learning to Automate Performance Tuning (invited presentation) - <i>Tomer Morad (Concertio)</i></li>
