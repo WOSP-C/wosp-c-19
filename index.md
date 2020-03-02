@@ -21,7 +21,7 @@ layout: default
     <li><hr></li>
   <li>12:30 - <strong>Lunch</strong></li>
     <li><hr></li>
-  <li>A joint panel discussion with the HotCloudPerf workshop is planned for the afternoon at a time to be determined. Please visit the two workshop websites, https://wosp-c.github.io/wosp-c-20/ and https://hotcloudperf.spec.org/, for updates.
+  <li>A joint panel discussion with the HotCloudPerf workshop is planned for the afternoon at a time to be determined. Please visit the two workshop websites, <a href="https://wosp-c.github.io/wosp-c-20/">https://wosp-c.github.io/wosp-c-20/</a> and <a href="https://hotcloudperf.spec.org/">https://hotcloudperf.spec.org/</a> , for updates.
 </li>
     <li><hr></li>
 </ul>
