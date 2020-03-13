@@ -3,8 +3,15 @@ layout: default
 ---
 <h3>WOSP-C 2020: Workshop on Challenges and Opportunities in Large Scale Performance</h3>
 <p>Topic: Performance and System Measurement and Analytics</p>
-<p>April 21st, 2020</p>
+<p><s>April 21st, 2020</s></p>
 <p>Co-located with ICPE2020 in Edmonton, Alberta, Canada</p>
+
+<h1> WOSP-C will not take place as originally planned. </h1>
+<p>
+Dear WOSP-C Participants:
+We regret that the COVID-19 situation and consequent restrictions by the Government of Alberta make it impossible to hold the workshop and ICPE2020 as planned. Please visit http://icpe2020.spec.org for updates.
+We will keep you posted about the possibility of rescheduling the conference and the workshop.
+</p> 
 
 <h3 id="program">Technical Program</h3>
 <ul style="list-style-type: none;">
