@@ -178,7 +178,7 @@ Can the baselining of measurements provide a foundation for intrusion detection?
 <p>Important Dates
 <ul class="text">
   <li>Submission deadline: <s>January 12th, 2020</s> January 21st, 2020 (Extended) </li>
-<li>Notifications to authors: February 2nd, 2020</li>
-<li>Camera-ready copy (hard deadline): February 24th, 2020</li>
+  <li><s>Notifications to authors: February 2nd, 2020</s></li>
+  <li><s>Camera-ready copy (hard deadline): February 24th, 2020</s></li>
 </ul>
 </p>
