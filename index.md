@@ -1,38 +1,80 @@
 ---
 layout: default
 ---
-<h3>WOSP-C 2020: Workshop on Challenges and Opportunities in Large Scale Performance</h3>
-<p>Topic: Performance and System Measurement and Analytics</p>
-<p><s>April 21st, 2020</s></p>
-<p>Co-located with ICPE2020 in Edmonton, Alberta, Canada</p>
-<hr>
-<h1> WOSP-C will not take place as originally planned. </h1>
+<h1> WOSP-C 2020 is Moving On-Line! </h1>
 <p>
-Dear WOSP-C Participants:
-We regret that the COVID-19 situation and consequent restrictions by the Government of Alberta make it impossible to hold the workshop and ICPE2020 as planned. Please visit <a href="http://icpe2020.spec.org">http://icpe2020.spec.org</a> for updates.
-We will keep you posted about the possibility of rescheduling the conference and the workshop.
+WOSP-C 2020 is moving on-line together with ICPE 2020 and its associated workshops because of the COVID-19 outbreak. The technical program has been modified accordingly.
+</p>
+<p>
+Registration is FREE! Send an email to icpe2020-virtual[at]easychair.org with your name and email to register. Registration allows on-line attendance at ICPE 2020 and all the associated workshops. Instructions for access will be supplied once you have registered.
+</p>
+<p>
+Our workshop will be streamed live from 09:00 to 11:00 Edmonton MDT (New York-2, Berlin-8). It will be followed immediately by HotCloudPerf <a href="https://hotcloudperf.spec.org/participate">https://hotcloudperf.spec.org/participate</a>. The originally scheduled authors have been invited to give abbreviated presentations of their work followed by a discussion. Participants are encouraged to download the slides and papers via the links indicated in the SLACK channel. Each group of three presentations will be followed by a short panel discussion at the time indicated.</p>
+<p>
+Schedule: (all times are in Edmonton MDT, New York-2, Berlin-8).
+</p>
+<hr>
+<table>
+  <tr>
+    <th>Edmonton MDT</th>
+    <th>Title</th>
+    <th>Authors or Speaker</th>
+  </tr>
+  <tr>
+    <td>09:00</td>
+    <td>Welcoming Remarks</td>
+    <td>André B. Bondi (Software Performance and Scalability Consulting LLC and Stevens Institute of Technology)</td>
+  </tr>
+  <tr>
+    <td>09:05</td>
+    <td>Leveraging Machine Learning to Automate Performance Tuning (invited presentation)</td>
+    <td>Tomer Morad (Concertio)</td>
+  </tr>
+  <tr>
+    <td>09:20</td>
+    <td>Automated Scalability Assessment in DevOps Environments (invited presentation)</td>
+    <td>Alberto Avritzer (eSulab Solutions)</td>
+  </tr>
+  <tr>
+    <td>09:35</td>
+    <td>How to Apply Modeling to Compare Options and Select the Appropriate Cloud Platform (invited presentation)</td>
+    <td>Boris Zibitsker (BEZNext); Alex Lupersolsky (BEZNext)</td>
+  </tr>
+  <tr>
+    <td>09:50</td>
+    <td>Discussion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:05</td>
+    <td>Performance Analysis and Prediction of Model Transformation</td>
+    <td>Vijayshree Vijayshree (Universität Stuttgart); Markus Frank (Universität Stuttgart); Steffen Becker (Universität Stuttgart)</td>
+  </tr>
+  <tr>
+    <td>10:20</td>
+    <td>Issues Arising in Using Kernel Traces to Make a Performance Model</td>
+    <td>Murray Woodside (Carleton University); Shieryn Tjandra (Carleton University); Gabriel Seyoum (Carleton University)</td>
+  </tr>
+  <tr>
+    <td>10:35</td>
+    <td>Performance Anomaly and Change Point Detection for Large-Scale System Management (invited presentation)</td>
+    <td>Igor Trubin (CapitalOne)</td>
+  </tr>
+  <tr>
+    <td>10:50</td>
+    <td>Discussion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td>Break before HotCloudPerf</td>
+    <td>https://hotcloudperf.spec.org/participate</td>
+  </tr>
+</table>
 </p> 
 <hr>
-<h3 id="program">Technical Program</h3>
-<ul style="list-style-type: none;">
-  <li>8:50 - Welcoming Remarks - <i>André B. Bondi (Software Performance and Scalability Consulting LLC and Stevens Institute of Technology)</i></li>
-  <li>9:00 - Leveraging Machine Learning to Automate Performance Tuning (invited presentation) - <i>Tomer Morad (Concertio)</i></li>
-  <li>9:30 - Automated Scalability Assessment in DevOps Environments (invited presentation) - <i>Alberto Avritzer (eSulab Solutions)</i></li>
-  <li>10:00 - How to Apply Modeling to Compare Options and Select the Appropriate Cloud Platform (invited presentation) - <i>Boris Zibitsker (BEZNext); Alex Lupersolsky (BEZNext)</i></li>
-  <li><hr></li>
-  <li>10:30 - <strong>Break</strong></li>
-    <li><hr></li>
-   <li>11:00 - Performance Analysis and Prediction of Model Transformation - <i>Vijayshree Vijayshree (Universität Stuttgart); Markus Frank (Universität Stuttgart); Steffen Becker (Universität Stuttgart)</i></li>
-  <li>11:30 - Issues Arising in Using Kernel Traces to Make a Performance Model - <i>Murray Woodside (Carleton University); Shieryn Tjandra (Carleton University); Gabriel Seyoum (Carleton University)</i></li>
-  <li>12:00 - Performance Anomaly and Change Point Detection for Large-Scale System Management (invited presentation) - <i>Igor Trubin (CapitalOne)</i></li>
-    <li><hr></li>
-  <li>12:30 - <strong>Lunch</strong></li>
-    <li><hr></li>
-  <li>A joint panel discussion with the HotCloudPerf workshop is planned for the afternoon at a time to be determined. Please visit the two workshop websites, <a href="https://wosp-c.github.io/wosp-c-20/">https://wosp-c.github.io/wosp-c-20/</a> and <a href="https://hotcloudperf.spec.org/">https://hotcloudperf.spec.org/</a> , for updates.
-</li>
-    <li><hr></li>
-</ul>
-
+<h3>WOSP-C 2020: Workshop on Challenges and Opportunities in Large Scale Performance</h3>
+<p>Topic: Performance and System Measurement and Analytics</p>
 <h3>General</h3>
 <p>The WOSP-C series of workshops on challenges in software performance has taken place at every ICPE except ICPE 2019 since ICPE 2015. It provides a forum for the discussion of emerging or unaddressed challenges in software and performance, including challenges in developing software to be performant, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. Some of the topics have later become the subject of workshops and conference papers in their own right.</p>
 <h3>Overview</h3>
