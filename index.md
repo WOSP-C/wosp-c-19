@@ -75,13 +75,30 @@ Schedule: (all times are in Edmonton MDT, New York-2, Berlin-8).
 <hr>
 <h3>WOSP-C 2020: Workshop on Challenges and Opportunities in Large Scale Performance</h3>
 <p>Topic: Performance and System Measurement and Analytics</p>
+<h3 id="program">Original Technical Program</h3>
+<ul style="list-style-type: none;">
+  <li>8:50 - Welcoming Remarks - <i>André B. Bondi (Software Performance and Scalability Consulting LLC and Stevens Institute of Technology)</i></li>
+  <li>9:00 - Leveraging Machine Learning to Automate Performance Tuning (invited presentation) - <i>Tomer Morad (Concertio)</i></li>
+  <li>9:30 - Automated Scalability Assessment in DevOps Environments (invited presentation) - <i>Alberto Avritzer (eSulab Solutions)</i></li>
+  <li>10:00 - How to Apply Modeling to Compare Options and Select the Appropriate Cloud Platform (invited presentation) - <i>Boris Zibitsker (BEZNext); Alex Lupersolsky (BEZNext)</i></li>
+  <li><hr></li>
+  <li>10:30 - <strong>Break</strong></li>
+    <li><hr></li>
+   <li>11:00 - Performance Analysis and Prediction of Model Transformation - <i>Vijayshree Vijayshree (Universität Stuttgart); Markus Frank (Universität Stuttgart); Steffen Becker (Universität Stuttgart)</i></li>
+  <li>11:30 - Issues Arising in Using Kernel Traces to Make a Performance Model - <i>Murray Woodside (Carleton University); Shieryn Tjandra (Carleton University); Gabriel Seyoum (Carleton University)</i></li>
+  <li>12:00 - Performance Anomaly and Change Point Detection for Large-Scale System Management (invited presentation) - <i>Igor Trubin (CapitalOne)</i></li>
+    <li><hr></li>
+  <li>12:30 - <strong>Lunch</strong></li>
+    <li><hr></li>
+  <li>A joint panel discussion with the HotCloudPerf workshop is planned for the afternoon at a time to be determined. Please visit the two workshop websites, <a href="https://wosp-c.github.io/wosp-c-20/">https://wosp-c.github.io/wosp-c-20/</a> and <a href="https://hotcloudperf.spec.org/">https://hotcloudperf.spec.org/</a> , for updates.
+</li>
+    <li><hr></li>
+</ul>
+
 <h3>General</h3>
 <p>The WOSP-C series of workshops on challenges in software performance has taken place at every ICPE except ICPE 2019 since ICPE 2015. It provides a forum for the discussion of emerging or unaddressed challenges in software and performance, including challenges in developing software to be performant, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. Some of the topics have later become the subject of workshops and conference papers in their own right.</p>
 <h3>Overview</h3>
 <p>In recent years, tools have proliferated to measure and analyze the resource usage and application activity of large-scale systems hosted on vast numbers of physical or virtual machines. Drawing inferences about performance, identifying performance bottlenecks, reducing performance test data, generating performance requirements, and computing the parameters of performance models all require the assistance of analytics tools to make dealing with large numbers of data sources tractable. The goal of this workshop is to explore performance challenges and their relationship to software engineering in these emerging areas.</p>
-
-
-
 <h3>Objective and Proposed Topics</h3>
 <p>The objective of this workshop is to bring together tool builders, practitioners and researchers who address the problems described above. Among the questions we hope to address in the workshop are:</p>
 <p>
