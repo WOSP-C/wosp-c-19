@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1> WOSP-C 2020 is Moving On-Line - 21.4.2020</h1>
+<h1> WOSP-C 2020 is Moving On-Line - April 21, 2020</h1>
 <p>
 WOSP-C 2020 is moving on-line together with ICPE 2020 and its associated workshops because of the COVID-19 outbreak. The technical program has been modified accordingly.
 </p>
